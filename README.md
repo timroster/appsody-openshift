@@ -12,8 +12,6 @@ With the initial setup complete, you will see how to use Appsody to create a sta
 
 This application can also be deployed to an existing OpenShift 3.9 or higher cluster by skipping the Minishift cluster setup steps. The application, including IBM Cloud operator may also be deployed on an OpenShift 4.x cluster by skipping the Minishift cluster setup and the OLM / operator marketplace setup steps (support for operator marketplace ships in OpenShift 4.x).
 
-The guide continues with a more [complex application](https://github.com/IBM/appsody-sample-quote-app) composed of a frontend in node.js and a backend in Java Spring Boot and includes the steps to place each component into it's own repository and configure automated deployment to an OpenShift cluster with Kabanero installed.
-
 ## Prerequisites
 
 * Workstation (MacOS, Linux or Windows 10) with hypervisor support, either native to the OS or through VirtualBox.
@@ -40,7 +38,7 @@ Or by downloading a zip file of the repository and unpacking locally.
 * [Set up Minishift on your system](workshop/minishift.md)
 * [Install Operator Framework and Appsody Operator](workshop/appsody-operator.md)
 * [Appsody 101](workshop/appsody101.md)
-* [Deploying appsody apps to Kubernetes - WIP](workshop/appsody-deploy.md)
+* [Deploying appsody apps to Kubernetes](workshop/appsody-deploy.md)
 
 ## Summary and next steps
 
