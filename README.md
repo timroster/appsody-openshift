@@ -39,8 +39,8 @@ Or by downloading a zip file of the repository and unpacking locally.
 
 * [Set up Minishift on your system](workshop/minishift.md)
 * [Install Operator Framework and Appsody Operator](workshop/appsody-operator.md)
-* [Create an instance of the Watson Tone Analyzer service on IBM Cloud](workshop/create-tone.md)
-* [Deploy the enhanced guestbook application](workshop/deploy-guestbook.md)
+* [Appsody 101](workshop/appsody101.md)
+* [Deploying appsody apps to Kubernetes - WIP](workshop/appsody-deploy.md)
 
 ## Summary and next steps
 
