@@ -25,9 +25,7 @@ Expect to spend about 45 minutes to create the cluster, deploy the operator fram
 
 ## Watch the webcast
 
-There's a youtube video of a walkthough of this repository along with a presentation on Kabanero and Appsody. It will pick up following the steps in this lab at the installation of the Appsody Operator.
-
-<iframe width="1229" height="640" src="https://www.youtube.com/embed/-o8uZtixt8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+There's a [youtube video](https://www.youtube.com/watch?v=-o8uZtixt8Q) of a walkthough of this repository along with a presentation on Kabanero and Appsody. It will pick up following the steps in this lab at the installation of the Appsody Operator.
 
 ## Getting started
 
