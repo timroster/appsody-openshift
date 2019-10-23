@@ -13,7 +13,7 @@ Appsody has a CLI tool that you need to install. There are [more details](https:
 ## install for Windows 10
 
 1. Create a directory for Appsody on your Windows 10 system.
-2. Download the Appsody binaries for Windows from the Appsody releases page into the directory. The file is named `appsody-v.r.m-windows.tar.gz`, where v.r.m indicates the release tag.
+2. Download the Appsody binaries for Windows from the [Appsody releases page](https://github.com/appsody/appsody/releases) into the directory. The file is named `appsody-v.r.m-windows.tar.gz`, where v.r.m indicates the release tag.
 3. Extract the files by running `tar -xvf appsody-v.r.m-windows.tar.gz`.
 4. To install Appsody, run the following setup command:
 

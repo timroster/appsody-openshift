@@ -1,6 +1,6 @@
 # Using Codewind notes
 
-Exploring a more complex applicaion scenario - just the key steps w/o narrative. 
+Exploring a more complex applicaion scenario - just the key steps w/o narrative.
 
 Based on [https://github.com/IBM/appsody-sample-quote-app](https://github.com/IBM/appsody-sample-quote-app) - live exercise to create the front end using Codewind, upload to git repository and deploy using a Kabanero / Tekton pipeline
 
