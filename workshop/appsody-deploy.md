@@ -81,7 +81,7 @@ docker run -it --rm -p 3000:3000 $(minishift openshift registry)/$(oc project -q
 App started on PORT 3000
 ```
 
-Test out the app with `curl http://localhost:3030/foo` or with one of the other health endpoints. Enter **Crtl-C** in the docker terminal to stop the running container.
+Test out the app with `curl http://localhost:3000/foo` or with one of the other health endpoints. Enter **Crtl-C** in the docker terminal to stop the running container.
 
 ### Push the container to the Minishift image registry
 

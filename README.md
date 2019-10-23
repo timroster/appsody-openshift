@@ -23,6 +23,12 @@ This application can also be deployed to an existing OpenShift 3.9 or higher clu
 
 Expect to spend about 45 minutes to create the cluster, deploy the operator framework and Appsody operator and then explore a sample application with Appsody. Additional time may be needed for configuring your workstation hypervisor configuration.
 
+## Watch the webcast
+
+There's a youtube video of a walkthough of this repository along with a presentation on Kabanero and Appsody. It will pick up following the steps in this lab at the installation of the Appsody Operator.
+
+<iframe width="1229" height="640" src="https://www.youtube.com/embed/-o8uZtixt8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Getting started
 
 Begin by creating a local clone of this repository on your workstation with either git clone:
@@ -40,6 +46,11 @@ Or by downloading a zip file of the repository and unpacking locally.
 * [Appsody 101](workshop/appsody101.md)
 * [Deploying appsody apps to Kubernetes](workshop/appsody-deploy.md)
 
-## Summary and next steps
+## Summary, references and next steps.
 
 Visit the IBM Developer [OpenShift on IBM Cloud collection](https://developer.ibm.com/collections/openshift-on-ibm/) to learn more about using OpenShift on IBM Cloud. For additional step-by-step learning activities related to OpenShift check out [learn.openshift.com](https://learn.openshift.com)
+
+Learn more about Appsody! Check out the [appsody.dev](https://appsody.dev) website to find the current list of stacks, documentation and how to contribute. Check out the new IBM Developer article [Customizing Appsody Stacks](https://developer.ibm.com/components/cloud-pak-for-applications/articles/customizing-appsody) and the in-depth tutorial [Create a new Appsody Stack](https://developer.ibm.com/technologies/containers/tutorials/create-appsody-stack). You can build on the simple node.js example in the Appsody 101 and Appsody Deploy labs by trying out the [Create an insurance quote application using Appsody](https://developer.ibm.com/technologies/node-js/patterns/create-insurance-quote-application-appsody) code pattern too.
+
+For more in-depth information about Kabanero and the Cloud Pak for Applications, check out the IBM Developer [Cloud Pak for Applications collection](https://developer.ibm.com/components/cloud-pak-for-applications/). And for a 101+ walkthough of several different language end-to-end scenarios with Kabanero, check out [IBM Cloud Architecture Center - Learning Kabanero 101](https://ibm-cloud-architecture.github.io/Learning-Kabanero-101/web/1.0.0/kabanero-overview.html).
+
